@@ -1,4 +1,6 @@
-package com.bitgrind.android.chromeremote;
+package com.bitgrind.apps.cr.android;
+
+import com.bitgrind.apps.cr.android.R;
 
 import android.app.Activity;
 import android.os.Bundle;
